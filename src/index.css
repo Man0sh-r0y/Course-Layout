@@ -50,21 +50,21 @@ body{
 }
 
 .footer{
+    color: white;
     display: flex;
     justify-content: space-around;
     background-image: linear-gradient(
-	60deg,
-	hsl(244deg 74% 7%) 1%,
-	hsl(244deg 74% 7%) 44%,
-	hsl(244deg 74% 7%) 50%,
-	hsl(244deg 74% 7%) 51%,
-	hsl(244deg 74% 7%) 50%,
-	hsl(244deg 74% 7%) 49%,
-	hsl(244deg 74% 7%) 50%,
-	hsl(244deg 74% 7%) 56%,
-	hsl(244deg 74% 7%) 99%
+        60deg,
+        hsl(244deg 74% 7%) 1%,
+        hsl(244deg 74% 7%) 44%,
+        hsl(244deg 74% 7%) 50%,
+        hsl(244deg 74% 7%) 51%,
+        hsl(244deg 74% 7%) 50%,
+        hsl(244deg 74% 7%) 49%,
+        hsl(244deg 74% 7%) 50%,
+        hsl(244deg 74% 7%) 56%,
+        hsl(244deg 74% 7%) 99%
    );
-   color: white;
 }
 
 .footer-box{
@@ -85,7 +85,6 @@ body{
 
 .social-links {
     display: flex;
-    /* color: rgba(19, 129, 233, 0.881); */
     gap: 10px;
 }
 
