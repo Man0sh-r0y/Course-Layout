@@ -3,44 +3,17 @@
 @tailwind utilities;
 
 body{
-    /* background-image: linear-gradient(
-        60deg,
-        hsl(34deg 100% 66%) 1%,
-        hsl(30deg 100% 68%) 43%,
-        hsl(25deg 100% 69%) 50%,
-        hsl(20deg 100% 71%) 51%,
-        hsl(14deg 100% 73%) 51%,
-        hsl(8deg 100% 74%) 49%,
-        hsl(0deg 100% 77%) 49%,
-        hsl(353deg 100% 76%) 50%,
-        hsl(347deg 100% 75%) 57%,
-        hsl(341deg 100% 75%) 99%
-    ); */
-    /* background-image: linear-gradient(
-  270deg,
-  hsl(169deg 78% 51%) 1%,
-  hsl(175deg 100% 43%) 43%,
-  hsl(180deg 100% 41%) 50%,
-  hsl(184deg 100% 42%) 51%,
-  hsl(188deg 100% 43%) 51%,
-  hsl(192deg 100% 43%) 49%,
-  hsl(195deg 100% 43%) 49%,
-  hsl(197deg 100% 42%) 50%,
-  hsl(199deg 100% 41%) 57%,
-  hsl(205deg 75% 45%) 99%
-); */
   background-image: linear-gradient(
-        270deg,
-        hsl(22deg 100% 66%) 1%,
-        hsl(21deg 100% 68%) 43%,
-        hsl(21deg 99% 70%) 50%,
-        hsl(21deg 98% 72%) 51%,
-        hsl(21deg 96% 74%) 51%,
-        hsl(20deg 94% 75%) 49%,
-        hsl(20deg 91% 77%) 49%,
-        hsl(20deg 87% 78%) 50%,
-        hsl(19deg 82% 80%) 57%,
-        hsl(19deg 75% 81%) 99%
+        90deg,
+        hsl(0deg 0% 28%) 1%,
+        hsl(344deg 0% 28%) 44%,
+        hsl(344deg 0% 28%) 50%,
+        hsl(344deg 0% 28%) 51%,
+        hsl(344deg 0% 28%) 50%,
+        hsl(344deg 0% 28%) 49%,
+        hsl(344deg 0% 28%) 50%,
+        hsl(344deg 0% 28%) 56%,
+        hsl(0deg 0% 28%) 99%
     );
 }
 
@@ -80,18 +53,18 @@ body{
     display: flex;
     justify-content: space-around;
     background-image: linear-gradient(
-  60deg,
-  hsl(244deg 74% 7%) 1%,
-  hsl(244deg 74% 7%) 44%,
-  hsl(244deg 74% 7%) 50%,
-  hsl(244deg 74% 7%) 51%,
-  hsl(244deg 74% 7%) 50%,
-  hsl(244deg 74% 7%) 49%,
-  hsl(244deg 74% 7%) 50%,
-  hsl(244deg 74% 7%) 56%,
-  hsl(244deg 74% 7%) 99%
-);
-color: white;
+	60deg,
+	hsl(244deg 74% 7%) 1%,
+	hsl(244deg 74% 7%) 44%,
+	hsl(244deg 74% 7%) 50%,
+	hsl(244deg 74% 7%) 51%,
+	hsl(244deg 74% 7%) 50%,
+	hsl(244deg 74% 7%) 49%,
+	hsl(244deg 74% 7%) 50%,
+	hsl(244deg 74% 7%) 56%,
+	hsl(244deg 74% 7%) 99%
+   );
+   color: white;
 }
 
 .footer-box{
@@ -115,10 +88,6 @@ color: white;
     /* color: rgba(19, 129, 233, 0.881); */
     gap: 10px;
 }
-
-/* .contact-details {
-    background-color: aqua;
-} */
 
 .contact-details li{
     display: flex;
