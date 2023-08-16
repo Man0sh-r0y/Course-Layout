@@ -8,12 +8,12 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-       git clone https://github.com/Man0sh-r0y/Top-Courses-Filter-Layout.git
+       git clone https://github.com/Man0sh-r0y/Courses-Filter-Layout.git
      ```
      
 1. Navigate to the project directory:
     ```bash
-      cd Top-Courses-Filter-Layout
+      cd Courses-Filter-Layout
     ```
     
 1. Install the required dependencies using npm:
